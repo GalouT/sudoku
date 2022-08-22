@@ -1,0 +1,16 @@
+section{
+    height: 100px;
+    width: 100px;
+    border: 2px solid orange;
+    font-size: 70px;
+    text-align: center;
+    margin:1px;
+
+}
+
+article{
+    width: 400px;
+    display: flex;
+    flex-wrap:wrap;
+    
+}
